@@ -1,4 +1,4 @@
-﻿namespace Reporting.Console;
+﻿namespace Reporting.Cli;
 
 class Program
 {
